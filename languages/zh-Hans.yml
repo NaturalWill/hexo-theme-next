@@ -6,13 +6,13 @@ title:
 author: 博主
 
 menu:
-  home: 首页
-  archives: 归档
-  categories: 分类
-  tags: 标签
-  about: 关于
-  search: 搜索
-  commonweal: 公益404
+  home: 首页|Home
+  archives: 归档|Archives
+  categories: 分类|Categories
+  tags: 标签|Tags
+  about: 关于|About
+  search: 搜索|Search
+  commonweal: 404
 
 
 sidebar:
