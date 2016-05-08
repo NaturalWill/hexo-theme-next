@@ -56,9 +56,9 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+#scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -119,7 +119,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-
+social:
+  GitHub: https://github.com/NaturalWill
+  email: mailto:naturalwill999@github.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -133,6 +135,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  email: envelope
 
 
 # Sidebar Avatar
@@ -152,7 +155,7 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-#creative_commons: by-nc-sa
+creative_commons: by-nc-sa
 #creative_commons:
 
 
